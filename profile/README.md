@@ -1,6 +1,8 @@
-## Insinuate
+# Insinuate
 
 As you see and as you think...
+
+---
 
 ## Connect with us
 <a href="https://discord.gg/Fs6fJN3jXj" target="_blank">
